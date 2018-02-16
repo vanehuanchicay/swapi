@@ -1,0 +1,29 @@
+.characters{
+	margin-top: 10%;
+}
+.one, .two, .three, .four, .five, .six{
+  background-repeat:no-repeat;
+  background-color: transparent;
+  height:20vh;
+  width:20vh;
+  background-position:center;
+  border:none;
+}
+.one{
+	background-image: url(../img/1.png);
+}
+.two{
+	background-image: url(../img/2.png);
+}
+.three{
+	background-image: url(../img/3.png);
+}
+.four{
+	background-image: url(../img/4.png);
+}
+.five{
+	background-image: url(../img/5.png);
+}
+.six{
+	background-image: url(../img/6.png);
+}
